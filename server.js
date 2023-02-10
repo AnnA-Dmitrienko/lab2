@@ -2,6 +2,8 @@
 // Student name: Anna Dmitrienko
 // Student ID: 120-412-218
 // */
+//image take from: https://unsplash.com/photos/wuc-KEIBrdE
+//Free to use under the Unsplash License
 
 const HTTP_PORT = process.env.PORT || 3000;
 
