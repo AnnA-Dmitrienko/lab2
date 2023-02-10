@@ -2,8 +2,15 @@
 // Student name: Anna Dmitrienko
 // Student ID: 120-412-218
 // */
-//image take from: https://unsplash.com/photos/wuc-KEIBrdE
+
+//image taken from: https://unsplash.com/photos/wuc-KEIBrdE
 //Free to use under the Unsplash License
+
+//App deployed to:
+//https://anna-dmitrienko-web322-lab2.cyclic.app/
+
+//via github account:
+//https://github.com/AnnA-Dmitrienko
 
 const HTTP_PORT = process.env.PORT || 3000;
 
